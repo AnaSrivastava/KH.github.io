@@ -31,33 +31,21 @@ export const kittens=[
 },
 {
 	id:6,
-	name:`Niharika Mallick`,
-	userid:'@niharika.mallick.1',
-	insta:`https://www.instagram.com/niharika.mallick.1/?hl=en`
-},
-{
-	id:7,
 	name:`Spriha Sharma`,
 	userid:'@spriha234',
 	insta:`https://www.instagram.com/spriha234/?hl=en`
 },
 {
-	id:8,
+	id:7,
 	name:`Ritika Jain`,
 	userid:'@ritika__.jain__',
 	insta:`https://www.instagram.com/ritika__.jain__/?hl=en`
 },
 {
-	id:9,
+	id:8,
 	name:`Shilpi Tyagi`,
 	userid:'@_shilpi_797',
 	insta:`https://www.instagram.com/_shilpi_797/?hl=en`
 },
-{
-	id:10,
-	name:`Bhanuja Aggarwal`,
-	userid:'@bhanujaaggarwal',
-	insta:`https://www.instagram.com/bhanujaaggarwal/?hl=en`
-}
 
 ]
